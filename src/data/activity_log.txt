@@ -1,4 +1,0 @@
-2025-05-13T23:11:00.2789393 - Event: LOGIN_FAILURE | Data: User: doc1
-2025-05-13T23:11:49.4321665 - Event: LOGIN_FAILURE | Data: User: doc1
-2025-05-13T23:12:04.5314335 - Event: LOGIN_SUCCESS | Data: User: staff
-2025-05-13T23:12:42.6673258 - Event: PATIENT_REGISTERED | Data: ID: PAT-2D218A, Name: Adu, Contact: 7892710796, Age: 18, Gender: M, Address: #4567 indira nagar by staff

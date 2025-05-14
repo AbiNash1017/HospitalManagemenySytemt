@@ -29,11 +29,11 @@ This project implements the following five design patterns:
     * **Purpose:** Ensures `FileManager` has only one instance for managing all file operations.
     * **Implementation:** `com.hospital.service.FileManager`.
 
-3.  **Facade Pattern:** (Enhanced)
-    * **Purpose:** Provides a simplified interface (`HospitalManagementFacade`) to the system, now also managing user sessions, authentication, and role-based access control.
+3.  **Facade Pattern:** 
+    * **Purpose:** Provides a simplified interface (`HospitalManagementFacade`) to the system, also managing user sessions, authentication, and role-based access control.
     * **Implementation:** `com.hospital.core.HospitalManagementFacade`.
 
-4.  **Observer Pattern:** (Enhanced)
+4.  **Observer Pattern:** 
     * **Purpose:** `EventManager` notifies `ActivityLogger` of events like patient registration, appointment scheduling/status changes, and user logins (success/failure).
     * **Implementation:** `com.hospital.observer.*` classes.
 
